@@ -1,0 +1,21 @@
+{
+  "todoData": [
+    {
+      "todoText": "buy milk",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "todoText": "buy bread",
+      "completed": false,
+      "id": 3
+    }
+  ],
+  "contactApp": [
+    {
+      "id": 1,
+      "contactName": "Shruthi",
+      "email": "xyz@gmail.com"
+    }
+  ]
+}
